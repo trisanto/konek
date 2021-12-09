@@ -1,0 +1,1 @@
+print(" mencoba program yang mudah")
